@@ -11,7 +11,7 @@ The three benefits of this fork are:
 
 `ai-actions` still does not have up to date documentation, feel free to DM me on Twitter/X if you need help or have questions.
 
-## render vs createStreamableUI
+## render vs createStreamableUIm
 
 There are two Action Registries in this repo, one relies on the `render` method and one relies on the `createStreamableUI` method. I did both on purpose to show how to use both methods.
 
